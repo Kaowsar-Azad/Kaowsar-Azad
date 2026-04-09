@@ -50,15 +50,15 @@
 
 ### 🔹 Job Application Tracker
 - 🛠️ Tech: React, Tailwind, LocalStorage  
-- 🚀 Live: https://your-live-link.com  
-- 💻 Code: https://github.com/Kaowsar-Azad/job-application-tracker  
+- 🚀 Live: https://premiumdigitalwebsite.netlify.app/
+- 💻 Code: https://github.com/Kaowsar-Azad/6th-assignment  
 
 ---
 
 ### 🔹 Portfolio Website
 - 🛠️ Tech: HTML, CSS, JavaScript  
-- 🚀 Live: https://your-portfolio-link.com  
-- 💻 Code: https://github.com/Kaowsar-Azad/portfolio  
+- 🚀 Live: https://kaowsar-azad.github.io/personal-website/ 
+- 💻 Code: https://github.com/Kaowsar-Azad/personal-website 
 
 ---
 
