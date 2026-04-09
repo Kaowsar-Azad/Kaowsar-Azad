@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Kaowsar Azar</h1>
+<h3 align="center">Aspiring Frontend Developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaowsar-azad&label=Profile%20views&color=0e75b6&style=flat" alt="kaowsar-azad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaowsar-azad" alt="kaowsar-azad" /></a> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on web development Premium Digital Website<br><br>🌱 I’m currently learning JavaScript, DOM manipulation and React<br><br>👨‍💻 All of my projects are available at https://github.com/Kaowsar-Azad<br><br>💬 Ask me about JavaScript , React<br><br>📫 How to reach me kaowsar148@gmail.com
 
@@ -12,10 +19,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaowsar-Azad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaowsar-Azad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kaowsar-Azad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kaowsar-Azad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
