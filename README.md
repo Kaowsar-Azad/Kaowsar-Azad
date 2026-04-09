@@ -59,6 +59,4 @@
 
 ---
 
-## 👀 Profile Views
-
 
