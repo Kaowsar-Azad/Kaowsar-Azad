@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaowsar Azad</h1>
 <h3 align="center">Frontend & React Developer from Bangladesh 🇧🇩</h3>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kaowsar-Azad&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ## 🚀 About Me
 
@@ -19,7 +21,7 @@
 <a href="YOUR_LINKEDIN_LINK" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="YOUR_FACEBOOK_LINK" target="blank">
+<a href="https://www.facebook.com/kaowsar148" target="blank">
 <img src="https://skillicons.dev/icons?i=facebook" height="40" />
 </a>
 <a href="https://github.com/Kaowsar-Azad" target="blank">
@@ -63,6 +65,4 @@
 
 ## 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kaowsar-Azad&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
