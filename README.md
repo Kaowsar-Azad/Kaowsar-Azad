@@ -3,7 +3,7 @@
 
 <!-- ✨ Typing Animation -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;website+Developer;React+%26+Next.js+Developer;Always+learning+new+things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kaowsar+Azad;Frontend+Developer+from+Bangladesh 🇧🇩;React+%26+Next.js+Developer;Passionate+about+Web+Development 💻;Always+Learning+New+Things 🚀" />
 </h1>
 
 <h3 align="center">🌐 I’m building modern web applications using React & Next.js</h3>
