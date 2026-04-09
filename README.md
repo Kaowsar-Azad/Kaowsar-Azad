@@ -62,12 +62,6 @@
 
 ---
 
-### 🔹 Assignment Projects
-- 🛠️ Tech: JavaScript  
-- 🚀 Live: https://your-live-link.com  
-- 💻 Code: https://github.com/Kaowsar-Azad  
-
----
 
 ## 📊 GitHub Stats
 
@@ -85,16 +79,5 @@
 
 ---
 
-## 🚀 Top Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaowsar-Azad&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kaowsar-Azad&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
