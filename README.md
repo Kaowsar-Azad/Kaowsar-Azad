@@ -23,7 +23,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="_blank">
+<a href="www.linkedin.com/in/kaowsar-azad" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
