@@ -2,9 +2,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGzHkbhw4pErA/profile-displaybackgroundimage-shrink_350_1400/B4DZzTIjoYIQAY-/0/1773068766409?e=1777507200&v=beta&t=q-Ok1HcTcHNvjYaW7bol3axLGkfatfeVkGDas6zFZIk" width="100%" />
 
 <!-- ✨ Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kaowsar+Azad;Frontend+Developer;React+%26+Next.js+Developer;Passionate+About+Building+Web+Apps" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;React+%26+Next.js+websiteDeveloper;Always+learning+new+things🚀" /> </h1>
 
 <h3 align="center">🌐 I’m building modern web applications using React & Next.js</h3>
 
