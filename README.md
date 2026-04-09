@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;Frontend+Developer;React+%26+Next.js+Developer;Always+learning+new+things🚀" />
 </h1>
 
-<h3 align="center">React & Next.js Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">🌐 I’m building modern web applications using React & Next.js</h3>
 
 ---
 
@@ -63,13 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaowsar-Azad&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -77,18 +70,6 @@
 <img src="https://streak-stats.demolab.com/?user=Kaowsar-Azad&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🚀 Top Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaowsar-Azad&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kaowsar-Azad&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
