@@ -1,6 +1,11 @@
+<!-- 🔥 Banner -->
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGzHkbhw4pErA/profile-displaybackgroundimage-shrink_350_1400/B4DZzTIjoYIQAY-/0/1773068766409?e=1777507200&v=beta&t=q-Ok1HcTcHNvjYaW7bol3axLGkfatfeVkGDas6zFZIk" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Kaowsar Azad</h1>
+<!-- ✨ Typing Animation -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;Frontend+Developer;React+%26+Next.js+Developer;Always+learning+new+things🚀" />
+</h1>
+
 <h3 align="center">Frontend & React Developer from Bangladesh 🇧🇩</h3>
 
 ---
@@ -11,7 +16,7 @@
 - 🌱 I’m currently learning **Next.js & Backend Integration**
 - 👯 I’m looking to collaborate on **React / Next.js Projects**
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React**
-- 📫 How to reach me: **kaowsarazad33@gmail.com**
+- 📫 Email: **kaowsarazad33@gmail.com**
 
 ---
 
@@ -38,6 +43,29 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,mongodb" />
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Job Application Tracker
+- 🛠️ Tech: React, Tailwind, LocalStorage  
+- 🚀 Live: https://your-live-link.com  
+- 💻 Code: https://github.com/Kaowsar-Azad/job-application-tracker  
+
+---
+
+### 🔹 Portfolio Website
+- 🛠️ Tech: HTML, CSS, JavaScript  
+- 🚀 Live: https://your-portfolio-link.com  
+- 💻 Code: https://github.com/Kaowsar-Azad/portfolio  
+
+---
+
+### 🔹 Assignment Projects
+- 🛠️ Tech: JavaScript  
+- 🚀 Live: https://your-live-link.com  
+- 💻 Code: https://github.com/Kaowsar-Azad  
 
 ---
 
