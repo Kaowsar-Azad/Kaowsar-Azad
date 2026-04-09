@@ -22,11 +22,11 @@
 
 ## 🌐 Connect with me
 
-<p align="left">
+
 <a href="https://www.linkedin.com/in/kaowsar-azad" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-</p>
+
 
 <a href="https://www.facebook.com/kaowsar148" target="_blank">
 <img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/>
