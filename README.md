@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;Frontend+Developer;React+%26+Next.js+Developer;Always+learning+new+things🚀" />
 </h1>
 
-<h3 align="center">Frontend & React Developer from Bangladesh</h3>
+<h3 align="center">Web Developer from Bangladesh</h3>
 
 ---
 
