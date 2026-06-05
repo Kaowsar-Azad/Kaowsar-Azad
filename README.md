@@ -59,7 +59,7 @@ A modern platform featuring dynamic search, optimized database queries, and secu
 
 🔹 **BookBound - Digital Library Platform**  
 A full-stack library application with secure Google/Email authentication, dynamic category filtering, and a personalized user dashboard.
-![BookBound Preview](https://i.ibb.co.com/pmKhPdL/book-browsing.png)
+![BookBound Preview](https://i.ibb.co/pmKhPdL/book-browsing.png)
 - 🛠 **Tech:** React.js, Node.js, MongoDB, Express.js, Tailwind CSS
 - 🚀 **Live:** [Visit BookBound](https://book-browsing.vercel.app/)
 - 💻 **Code:** [GitHub Repository](https://github.com/Kaowsar-Azad/Book-Browsing)
