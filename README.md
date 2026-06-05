@@ -49,7 +49,7 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 🔹 **Adopets - Full-Stack Pet Adoption Platform**  
 A modern platform featuring dynamic search, optimized database queries, and secure JWT authentication.
-![Adopets Preview](https://ibb.co.com/fjNHhGV)
+![Adopets Preview](https://i.ibb.co.com/kNDXR6V/Adopets-Preview.png)
 - 🛠 **Tech:** Next.js, Express.js, MongoDB, Tailwind CSS
 - 🚀 **Live:** [Visit Adopets](adopets-live.vercel.app)
 - 💻 **Code:** [GitHub Client-site Repository](https://github.com/Kaowsar-Azad/Pet-Adoption-Platform---Client-site)
