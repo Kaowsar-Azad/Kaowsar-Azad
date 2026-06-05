@@ -40,10 +40,10 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="My Skills" />
 
 </div>
----
+
 
 ## 📌 Featured Projects
 
