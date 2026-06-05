@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 
-Hi, I'm Kaowsar! 👋 I'm a passionate **Full-Stack Web Developer** who loves solving complex problems and transforming creative ideas into fast, high-performance web applications. With a strong eye for modern design, I enjoy building seamless and interactive user experiences.
+Hi, I'm Kaowsar! 👋 I build fast, scalable, and visually engaging web applications from scratch.
+As a Full-Stack Developer, my passion lies in solving complex problems and crafting intuitive user experiences.
 
 - 🔭 **I’m currently working on:** Building scalable MERN Stack web applications with clean UI.
 - 🌱 **I’m currently mastering:** Advanced Next.js features and robust backend architectures.
