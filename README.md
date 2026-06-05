@@ -26,28 +26,11 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 
 
-<div align="left">
+## 🌐 Connect with me
 
-  <a href="https://www.linkedin.com/in/kaowsar-azad/" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  </a>
-
-  <a href="ttps://www.facebook.com/kaowsar148" target="_blank">
-
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-
-  </a>
-
-  <a href="mailto:kaowsarazad33@gmail.com" target="_blank">
-
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
-  </a>
-
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaowsar-azad/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](আপনার_ফেসবুক_লিংক_এখানে_দিন)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaowsarazad33@gmail.com)
 
 
 <br />
