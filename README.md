@@ -4,7 +4,7 @@
 <!-- ✨ Typing Animation -->
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kaowsar+Azad;Full-Stack+website+Developer;Always+learning+new+things🚀" /> </h1>
 
-<h3 align="center">🌐 I’m building modern web applications using React & Next.js</h3>
+<h3 align="center">🌐 I’m building modern web applications using React , Next.js , Node.js & Mongodb</h3>
 
 ---
 
