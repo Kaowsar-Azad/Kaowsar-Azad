@@ -10,12 +10,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Frontend & Full Stack Web Development**
-- 🌐 I’m building modern web applications using **React & Next.js**
-- 🌱 I’m currently learning **Next.js & Backend Integration**
-- 👯 I’m looking to collaborate on **React / Next.js Projects**
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, React**
-- 📫 Email: **kaowsarazad33@gmail.com**
+Hi, I'm Kaowsar! 👋 I'm a passionate **Full-Stack Web Developer** who loves solving complex problems and transforming creative ideas into fast, high-performance web applications. With a strong eye for modern design, I enjoy building seamless and interactive user experiences.
+
+- 🔭 **I’m currently working on:** Building scalable MERN Stack web applications with clean UI.
+- 🌱 **I’m currently mastering:** Advanced Next.js features and robust backend architectures.
+- 👯 **I’m looking to collaborate on:** Innovative React.js and Next.js open-source projects.
+- 🎨 **My design interests:** Crafting modern UIs and responsive layouts using Tailwind CSS.
+- 💬 **Ask me about:** React.js, Next.js, Node.js, MongoDB, and Frontend Development.
+- 📫 **How to reach me:** [kaowsarazad33@gmail.com](mailto:kaowsarazad33@gmail.com)
 
 ---
 
