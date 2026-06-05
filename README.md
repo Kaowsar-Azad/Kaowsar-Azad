@@ -47,19 +47,20 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 ## 📌 Featured Projects
 
-### 🔹 Job Application Tracker
-- 🛠️ Tech: React, Tailwind, LocalStorage  
-- 🚀 Live: https://premiumdigitalwebsite.netlify.app/
-- 💻 Code: https://github.com/Kaowsar-Azad/6th-assignment  
+🔹 **Adopets - Full-Stack Pet Adoption Platform**  
+A modern platform featuring dynamic search, optimized database queries, and secure JWT authentication.
+- 🛠 **Tech:** Next.js, Express.js, MongoDB, Tailwind CSS
+- 🚀 **Live:** [Visit Adopets](adopets-live.vercel.app)
+- 💻 **Code:** [GitHub Client-site Repository](https://github.com/Kaowsar-Azad/Pet-Adoption-Platform---Client-site)
+- 💻 **Code:** [GitHub Client-site Repository](https://github.com/Kaowsar-Azad/Pet-Adoption-Platform---Server-site)
 
 ---
 
-### 🔹 Portfolio Website
-- 🛠️ Tech: HTML, CSS, JavaScript  
-- 🚀 Live: https://kaowsar-azad.github.io/personal-website/ 
-- 💻 Code: https://github.com/Kaowsar-Azad/personal-website 
-
----
+🔹 **BookBound - Digital Library Platform**  
+A full-stack library application with secure Google/Email authentication, dynamic category filtering, and a personalized user dashboard.
+- 🛠 **Tech:** React.js, Node.js, MongoDB, Express.js, Tailwind CSS
+- 🚀 **Live:** [Visit BookBound](https://book-browsing.vercel.app/)
+- 💻 **Code:** [GitHub Repository](https://github.com/Kaowsar-Azad/Book-Browsing)
 
 
 ## 🔥 GitHub Streak
