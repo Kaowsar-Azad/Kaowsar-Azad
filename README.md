@@ -22,14 +22,11 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 ---
 
-## 🌐 Connect with me
-
-
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaowsar-azad/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](আপনার_ফেসবুক_লিংক_এখানে_দিন)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaowsar148)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaowsarazad33@gmail.com)
 
 
