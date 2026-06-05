@@ -68,7 +68,7 @@ A full-stack library application with secure Google/Email authentication, dynami
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Kaowsar-Azad&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaowsar-Azad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
