@@ -48,13 +48,15 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 
 ## 📌 Featured Projects
 
-🔹 **Adopets - Full-Stack Pet Adoption Platform**  
-A modern platform featuring dynamic search, optimized database queries, and secure JWT authentication.
+🔹 **StartupForge- Full-Stack Platform**  
+A full-stack startup collaboration platform with dedicated dashboards for Founders, Collaborators, and Admins.
 ![Adopets Preview](https://i.ibb.co.com/Kcf8Sg7k/Chat-GPT-Image-Jul-9-2026-04-30-35-PM.png)
 - 🛠 **Tech:** Next.js, Express.js, MongoDB, Node.js , Tailwind CSS
 - 🚀 **Live:** [Visit Adopets](https://startup-forge-client.vercel.app)
 - 💻 **Code:** [GitHub Client-site Repository](https://github.com/Kaowsar-Azad/StartupForge-Client)
 - 💻 **Code:** [GitHub Client-site Repository](https://github.com/Kaowsar-Azad/StartupForge-Server)
+
+---
 
 🔹 **Adopets - Full-Stack Pet Adoption Platform**  
 A modern platform featuring dynamic search, optimized database queries, and secure JWT authentication.
