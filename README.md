@@ -19,6 +19,7 @@ As a Full-Stack Developer, my passion lies in solving complex problems and craft
 - 🎨 **My design interests:** Crafting modern UIs and responsive layouts using Tailwind CSS.
 - 💬 **Ask me about:** React.js, Next.js, Node.js, MongoDB, and Frontend Development.
 - 📫 **How to reach me:** [kaowsarazad33@gmail.com](mailto:kaowsarazad33@gmail.com)
+- ☎️ Contact: +8801798608539
 
 ---
 
